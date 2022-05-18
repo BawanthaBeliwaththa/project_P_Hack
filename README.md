@@ -11,5 +11,19 @@ A collection of Python tools that are made to system hacking.
 </ul>
 
 <h3> Phack_Mobile </h3>
-![pic1](https://user-images.githubusercontent.com/85686518/169089396-f2491e42-067e-45c1-9cc0-b15fe5d9caa3.png)
+<img src="https://user-images.githubusercontent.com/85686518/169089396-f2491e42-067e-45c1-9cc0-b15fe5d9caa3.png" alt="mobile_hacking">
+
+This is a picture of that tool I maded to Hack mobiles.
+
+<h3> You have to install some pips and an apt to run this !</h3>
+```
+pip install colorama
+pip install urllib
+```
+
+&&
+
+```
+$ sudo apt-get install adb
+```
 
