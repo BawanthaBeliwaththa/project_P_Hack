@@ -18,6 +18,7 @@ This is a picture of that tool I maded to Hack mobiles.
 <h3> You have to install some pips and an apt to run this !</h3>
 ```
 pip install colorama
+
 pip install urllib
 ```
 
