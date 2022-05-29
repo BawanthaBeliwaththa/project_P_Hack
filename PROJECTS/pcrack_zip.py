@@ -57,32 +57,23 @@ print(" ")
 print(" ")
 print(" ")
 
-def cp (pwl, obj):
-    idx = 0
+import zipfile
+from tqdm import tqdm
 
-    with open(pwl, "rb") as file:
-        for line in file:
-            for word in line.split():
-                try:
-                    idx += 1
-                    obj.extactall(pwd = word)
-                    print("password found at line ", idx)
-                    print("password is ", word.decode())
-                    return True
-                except:
-                    continue
-    return False
+wordlist = str(input("Path to password : "))
+zip_file = str(input("Path to zip : "))
 
+zip_file = zipfile.ZipFile(zip_file)
+n_words = len(list(open(wordlist, "rb")))
+print("Total passwords to test:", n_words)
 
-pwl = str(input("Path To The 'Password.txt' File : "))
-
-zip = str(input("Zip file : "))
-
-obj = zipfile.ZipFile(zip)
-
-cnt = len(list(open(pwl, "rb")))
-
-print ("There are total", cnt, "Number of passwords to test")
-
-if cp(pwl, obj) == False:
-    print("Password is not found in there !")
+with open(wordlist, "rb") as wordlist:
+    for word in tqdm(wordlist, total=n_words, unit="word"):
+        try:
+            zip_file.extractall(pwd=word.strip())
+        except:
+            continue
+        else:
+            print("[+] Password found:", word.decode().strip())
+            exit(0)
+print("[!] Password not found, try other wordlist.")
