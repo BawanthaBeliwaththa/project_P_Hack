@@ -58,7 +58,7 @@ pip install tqdm
 
 This is the ZIP Cracker.
 
-<h3> 2. <a href="https://github.com/BawanthaBeliwaththa/project_P_Hack/blob/main/PROJECTS/V2.0/numberdetails.py">Mobile Number Cmpromise Tool </a></h3>
+<h3> 4. <a href="https://github.com/BawanthaBeliwaththa/project_P_Hack/blob/main/PROJECTS/V2.0/numberdetails.py">Mobile Number Cmpromise Tool </a></h3>
 <img src="https://user-images.githubusercontent.com/85686518/209597814-aa005164-e7e9-4da3-a7d5-b1f34c35fec7.png" alt="Mobile_Number_Compromise">
 
 The Mobile Number Compromise tool's picture. 
