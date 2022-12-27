@@ -2,6 +2,11 @@
 A collection of Python tools that are made to system hacking.
 <h2>The Vesion 2.0 Is Here Of Project_P_HACK</h2>
 
+<h3>What's New ?</h3>
+<ul type="square">
+  <li><a href="https://github.com/BawanthaBeliwaththa/project_P_Hack/blob/main/PROJECTS/V2.0/numberdetails.py">New Phone Number Compromise Tool</a></li>
+  <li> Fixed some Bugs on <a href="https://github.com/MrWhiteHatBAWA/project_P_Hack/blob/main/PROJECTS/phack_mob.py" target="_blank">Android Hacking Tool</a></li>
+
 <img src="https://user-images.githubusercontent.com/85686518/209597814-aa005164-e7e9-4da3-a7d5-b1f34c35fec7.png" alt="Mobile Compromise">
 
 New Version 2.0 Updated With Some Bug fixes and with Mobile Number Compromise Tool 
