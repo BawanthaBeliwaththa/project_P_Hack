@@ -4,7 +4,7 @@ A collection of Python tools that are made to system hacking.
 
 <h3>What's New ?</h3>
 <ul type="square">
-  <li><a href="https://github.com/BawanthaBeliwaththa/project_P_Hack/blob/main/PROJECTS/V2.0/numberdetails.py">New Phone Number Compromise Tool</a></li>
+  <li> New <a href="https://github.com/BawanthaBeliwaththa/project_P_Hack/blob/main/PROJECTS/V2.0/numberdetails.py">Phone Number Compromise Tool</a></li>
   <li> Fixed some Bugs on <a href="https://github.com/MrWhiteHatBAWA/project_P_Hack/blob/main/PROJECTS/phack_mob.py" target="_blank">Android Hacking Tool</a></li>
 </ul>
 
