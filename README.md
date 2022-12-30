@@ -72,7 +72,7 @@ pip install phonenumbers
 # BONUS
 <h2> You must want a Password list <a href="https://link.ap1.storjshare.io/juf7ywmjwsi6ynloo3nscphjswyq/passwords%2Fpassword.txt"> Click here</a> to get one. </h2>
 
-<h3> Compani website : <a href="https://programming-pub-lk.ml"> Programmig-Pub-Lk </a></h3>
+<h3> Company website : <a href="https://programming-pub-lk.ml"> Programmig-Pub-Lk </a></h3>
 
 <h3> Personal website : <a href="https://bawanthabeliwaththa.ml"> Bawantha Beliwaththa </a></h3>
 
